@@ -1,0 +1,2 @@
+# Ethical-Hacking-Training-Project
+It is a Ethical Hacking Training Project done on a E-Commerce Website which is basically an Internshala Hacking Web Application. Here I have used different tools like Burp Suite to find out the possible Vulnerabilities present in the Web Application and also mentioned ways for the patch. The most critical vulnerabilities found are SQL Injection, CSRF, Remote file inclusion, Cross Side Scripting. etc. I have also attached with it the Proof Of Concept for each Vulnerabilities.
